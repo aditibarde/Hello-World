@@ -1,3 +1,4 @@
 # Hello-World
 testing Git for the first time
-maing changes
+main changes
+this is second change
